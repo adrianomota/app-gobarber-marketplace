@@ -2,5 +2,5 @@
 Projeto estilo mercado livre de cadastro de anuncios.
 
 
-#Tecnologias:
+# Tecnologias:
 MongoDB, Redis, Docker, Node.js e Javascript - ES6.
